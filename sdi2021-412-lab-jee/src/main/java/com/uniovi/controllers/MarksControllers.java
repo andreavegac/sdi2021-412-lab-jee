@@ -24,4 +24,5 @@ public class MarksControllers {
 	public String getDetail(@PathVariable Long id) {
 		return "Getting Details: " + id;
 	}
+	
 }
